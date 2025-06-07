@@ -45,7 +45,7 @@ export const PROJECTS = [
     description:
       "A basic calculator web app that performs arithmetic operations like addition, subtraction, multiplication, and division with a clean UI.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    liveUrl: "https://your-calculator-demo-link.com", 
+    liveUrl: "https://rakheeb07.github.io/calculator/", 
   },
   {
     title: "Live Weather Website",
@@ -53,7 +53,7 @@ export const PROJECTS = [
     description:
       "A weather website that displays real-time weather data for any city using a public weather API. It includes temperature, humidity, and condition updates.",
     technologies: ["HTML", "CSS", "JavaScript", "Weather API"],
-    liveUrl: "https://your-weather-app-link.com", 
+    liveUrl: "https://rakheeb07.github.io/Live-weather/", 
   },
   {
     title: "Rock Paper Scissors Game",
@@ -61,7 +61,7 @@ export const PROJECTS = [
     description:
       "An interactive Rock Paper Scissors game where users can play against the computer. It includes score tracking and simple animations.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    liveUrl: "https://your-rps-game-link.com", 
+    liveUrl: "https://rakheeb07.github.io/rock-paper-scissors/", 
   },
   {
     title: "Fruits & Vegetables Website",
@@ -69,7 +69,7 @@ export const PROJECTS = [
     description:
       "A static website that showcases various fruits and vegetables with descriptions, benefits, and visually appealing images for each category.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    liveUrl: "https://your-fruits-vegetables-site.com", 
+    liveUrl: "https://rakheeb07.github.io/fruits-veggies/", 
   },
 ];
 
